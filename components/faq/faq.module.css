@@ -1,0 +1,20 @@
+.container {
+  background: brown;
+  width: 100vw;
+  height: 100vh;
+  text-align: center;
+}
+
+.box {
+  background: blue !important;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  z-index: 10030 !important;
+  bottom: 0;
+  left: 0;
+}
+
+.accordionOne {
+  margin: auto;
+}

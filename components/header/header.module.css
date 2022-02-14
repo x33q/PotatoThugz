@@ -1,0 +1,13 @@
+.box {
+  background: red !important;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  z-index: 10030 !important;
+  top: 0;
+  left: 0;
+}
+
+.menuLink {
+  margin: 0 20px;
+}

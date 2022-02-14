@@ -1,0 +1,18 @@
+.container {
+  background: slategray;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  background: blue !important;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  z-index: 10030 !important;
+  bottom: 0;
+  left: 0;
+}
